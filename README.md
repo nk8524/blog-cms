@@ -1,4 +1,5 @@
-# vuetify_lesson
+# Blog CMS
+This project uses vue.js (vuetify).
 
 ## Project setup
 ```
